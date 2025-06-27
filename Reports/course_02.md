@@ -58,3 +58,10 @@ Este é o segundo curso da trilha de Git na plataforma [Boot.dev](https://boot.d
 - Uso para corrigir erros em produção mantendo o log intacto
 
 ---
+
+### 8. 🍒 Cherry Pick
+- Selecionar commits específicos de outras branches
+- Aplicação prática em hotfixes e produção
+- Cuidados ao resolver conflitos durante cherry-picking
+
+---
