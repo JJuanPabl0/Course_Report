@@ -7,6 +7,7 @@ Este é o segundo curso da trilha de Git na plataforma [Boot.dev](https://boot.d
 
 ---
 
+## 🧩 Módulos e Conteúdos
 
 
 
