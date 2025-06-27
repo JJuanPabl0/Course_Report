@@ -51,3 +51,10 @@ Este é o segundo curso da trilha de Git na plataforma [Boot.dev](https://boot.d
 - Aplicações práticas para troca de branches sem perder progresso
 
 ---
+
+### 7. 🔁 Revert
+- Desfazer commits sem alterar o histórico (`git revert`)
+- Diferença entre `revert` e `reset`
+- Uso para corrigir erros em produção mantendo o log intacto
+
+---
