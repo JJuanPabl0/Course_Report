@@ -41,6 +41,13 @@
 - Conceito de HEAD e branch atual
 - Fluxo de trabalho com múltiplas ramificações
 
+---
+
+### 6. 🔀 Merge
+- Merge entre branches: `git merge`
+- Resolução de conflitos
+- Merge commits e fast-forward merges
+
 
 
 
