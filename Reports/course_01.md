@@ -70,5 +70,9 @@
 
 Este curso apresenta uma introdução e aprofundamento no Git, permitindo que quem está aprendendo entenda tanto o **uso prático** quanto os **conceitos internos** da ferramenta. A estrutura também permite aprendizado gradual, que fica focando em comandos do tipo reais e situações do dia a dia no desenvolvimento de software.
 
+---
+
+## 🔗 Referência
+- Curso original: [Learn Git – Boot.dev](https://boot.dev/courses/learn-git)
 
 
