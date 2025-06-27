@@ -33,3 +33,14 @@
 - Ativação de cores no terminal
 - Introdução a Git hooks
 
+---
+
+### 5. 🌿 Branching
+- Criação e manipulação de branches:
+  - `git branch`, `git checkout`, `git switch`
+- Conceito de HEAD e branch atual
+- Fluxo de trabalho com múltiplas ramificações
+
+
+
+
