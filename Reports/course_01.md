@@ -17,6 +17,12 @@
   - `git add`, `git commit`, `git status`, `git log`
 - Visualização e rastreamento do histórico de mudanças
 
+---
 
+### 3. ⚙️ Internals
+- Entendimento da estrutura de baixo nível do Git:
+  - Objetos: blobs, trees, commits
+  - Hashes SHA-1 e armazenamento no `.git/`
+- Compreensão de como o Git realmente guarda os dados
 
 
