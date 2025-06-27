@@ -74,5 +74,3 @@ Este curso apresenta uma introdução e aprofundamento no Git, permitindo que qu
 
 ## 🔗 Referência
 - Curso original: [Learn Git – Boot.dev](https://boot.dev/courses/learn-git)
-
-
