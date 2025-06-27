@@ -23,3 +23,10 @@ Este é o segundo curso da trilha de Git na plataforma [Boot.dev](https://boot.d
 - Situações comuns de uso após reset, rebase ou squash
 
 ---
+
+### 3. ⚔️ Merge Conflicts
+- Causas comuns de conflitos em `merge`
+- Como o Git identifica e marca os conflitos
+- Estratégias de resolução e boas práticas
+
+---
