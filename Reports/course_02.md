@@ -17,3 +17,9 @@ Este é o segundo curso da trilha de Git na plataforma [Boot.dev](https://boot.d
 
 ---
 
+### 2. 🧠 Reflog
+- O que é o `git reflog` e para que serve
+- Recuperação de commits perdidos
+- Situações comuns de uso após reset, rebase ou squash
+
+---
