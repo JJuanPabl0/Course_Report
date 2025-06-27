@@ -64,6 +64,11 @@
 - Diferença entre reset e `revert`
 - Riscos e melhores práticas ao usar `reset`
 
+---
+
+## 💡 Conclusão
+
+Este curso apresenta uma introdução e aprofundamento no Git, permitindo que quem está aprendendo entenda tanto o **uso prático** quanto os **conceitos internos** da ferramenta. A estrutura também permite aprendizado gradual, que fica focando em comandos do tipo reais e situações do dia a dia no desenvolvimento de software.
 
 
 
