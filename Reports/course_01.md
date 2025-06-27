@@ -55,5 +55,15 @@
 - Uso de `git rebase` para linearizar histórico
 - Rebase interativo (`git rebase -i`) e edição de commits
 
+---
+
+### 8. ♻️ Reset
+- Desfazendo mudanças com `git reset`
+- Tipos de reset:
+  - `--soft`, `--mixed`, `--hard`
+- Diferença entre reset e `revert`
+- Riscos e melhores práticas ao usar `reset`
+
+
 
 
