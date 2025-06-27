@@ -9,3 +9,14 @@
   - `git config --global user.email`
 - Definição de editor padrão e opções de linha de comando
 
+---
+
+### 2. 📁 Repositories
+- Criação de repositórios locais com `git init`
+- Comandos fundamentais:
+  - `git add`, `git commit`, `git status`, `git log`
+- Visualização e rastreamento do histórico de mudanças
+
+
+
+
