@@ -75,3 +75,5 @@ Este segundo curso complementa o primeiro com comandos avançados e estratégias
 
 E acho que isso é essencial para quem deseja dominar Git em algum tipo de equipe e ambiente de produção.
 
+## 🔗 Referência
+- Curso original: [Learn Git 2 – Boot.dev](https://www.boot.dev/courses/learn-git-2)
