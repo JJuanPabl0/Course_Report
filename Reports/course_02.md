@@ -44,3 +44,10 @@ Este é o segundo curso da trilha de Git na plataforma [Boot.dev](https://boot.d
 - Vantagens: histórico mais limpo e fácil de entender
 
 ---
+
+### 6. 🧳 Stash
+- Salvamento temporário de mudanças com `git stash`
+- Recuperação com `git stash apply` e `pop`
+- Aplicações práticas para troca de branches sem perder progresso
+
+---
