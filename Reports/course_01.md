@@ -48,6 +48,12 @@
 - Resolução de conflitos
 - Merge commits e fast-forward merges
 
+---
+
+### 7. 🧬 Rebase
+- Comparação entre `merge` e `rebase`
+- Uso de `git rebase` para linearizar histórico
+- Rebase interativo (`git rebase -i`) e edição de commits
 
 
 
