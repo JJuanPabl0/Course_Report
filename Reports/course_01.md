@@ -25,4 +25,11 @@
   - Hashes SHA-1 e armazenamento no `.git/`
 - Compreensão de como o Git realmente guarda os dados
 
+---
+
+### 4. 🧾 Config
+- Customização com `.gitconfig`
+- Criação de aliases personalizados
+- Ativação de cores no terminal
+- Introdução a Git hooks
 
