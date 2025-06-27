@@ -65,3 +65,13 @@ Este é o segundo curso da trilha de Git na plataforma [Boot.dev](https://boot.d
 - Cuidados ao resolver conflitos durante cherry-picking
 
 ---
+
+## 💡 Conclusão
+
+Este segundo curso complementa o primeiro com comandos avançados e estratégias de controle de danos. Onde aprendemos a:
+- Trabalhar com colaboração remota real (via forks)
+- Resolver conflitos com segurança
+- Manter o histórico limpo e profissional
+
+E acho que isso é essencial para quem deseja dominar Git em algum tipo de equipe e ambiente de produção.
+
