@@ -30,3 +30,10 @@ Este é o segundo curso da trilha de Git na plataforma [Boot.dev](https://boot.d
 - Estratégias de resolução e boas práticas
 
 ---
+
+### 4. 🧬 Rebase Conflicts
+- Conflitos durante `git rebase`
+- Como pausá-lo, resolvê-lo e continuar (`git rebase --continue`)
+- Cancelamento de rebase (`git rebase --abort`)
+
+---
