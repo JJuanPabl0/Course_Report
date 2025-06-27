@@ -2,7 +2,7 @@
 > Nome: Juan Pablo Silvério Silva
 ## 🧩 Módulos e Conteúdos
 
-### 1. 🛠️ Setup
+### 1.  Setup
 - Instalação do Git na máquina local
 - Configuração inicial:
   - `git config --global user.name`
@@ -11,7 +11,7 @@
 
 ---
 
-### 2. 📁 Repositories
+### 2.  Repositories
 - Criação de repositórios locais com `git init`
 - Comandos fundamentais:
   - `git add`, `git commit`, `git status`, `git log`
@@ -19,7 +19,7 @@
 
 ---
 
-### 3. ⚙️ Internals
+### 3.  Internals
 - Entendimento da estrutura de baixo nível do Git:
   - Objetos: blobs, trees, commits
   - Hashes SHA-1 e armazenamento no `.git/`
@@ -27,7 +27,7 @@
 
 ---
 
-### 4. 🧾 Config
+### 4.  Config
 - Customização com `.gitconfig`
 - Criação de aliases personalizados
 - Ativação de cores no terminal
@@ -35,7 +35,7 @@
 
 ---
 
-### 5. 🌿 Branching
+### 5.  Branching
 - Criação e manipulação de branches:
   - `git branch`, `git checkout`, `git switch`
 - Conceito de HEAD e branch atual
@@ -43,21 +43,21 @@
 
 ---
 
-### 6. 🔀 Merge
+### 6.  Merge
 - Merge entre branches: `git merge`
 - Resolução de conflitos
 - Merge commits e fast-forward merges
 
 ---
 
-### 7. 🧬 Rebase
+### 7.  Rebase
 - Comparação entre `merge` e `rebase`
 - Uso de `git rebase` para linearizar histórico
 - Rebase interativo (`git rebase -i`) e edição de commits
 
 ---
 
-### 8. ♻️ Reset
+### 8.  Reset
 - Desfazendo mudanças com `git reset`
 - Tipos de reset:
   - `--soft`, `--mixed`, `--hard`
